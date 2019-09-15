@@ -1,7 +1,7 @@
 # FiGE Website Design (Archived)
 ## *DISCLAMIER*
 
-This program is currently under hibernation. All information included here is as of April 2019 and could be out-dated. For further information about Foundations in Global Engagement (FiGE) program, please go to [Global Penn State's website](https://global.psu.edu/fige).
+The Foundations in Global Engagement (FiGE) program is currently under hibernation. All information included here is as of April 2019 and could be out-dated. For further information about FiGE program, please go to [Global Penn State's website](https://global.psu.edu/fige).
 
 ## Introduction
 
